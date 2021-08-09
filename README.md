@@ -3,6 +3,6 @@
 - My skills include Javascript, React, HTML/CSS, Java, C++
 - I am currently focusing on Javascript and React, and evolving my skill-set as a software developer.
 
-- Feel free to reach me using my personal email at: nguyenandrew447@gmail.com
+
 
 
